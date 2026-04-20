@@ -9,9 +9,18 @@ To write a Python program that calculates the **sum of all elements** in a list.
 3. Print the result.
 
 ## 🧾 Program
+```
+numbers = [1, 2, 3, 4, 5]
 
-Add code here
+total = sum(numbers)
 
+print(total)
+```
 ## Output
 
+<img width="1926" height="988" alt="image" src="https://github.com/user-attachments/assets/e913fc4a-cc6b-4133-ad84-107299c3cafa" />
+
+
 ## Result
+
+Hence successfully done using VSCODE.
