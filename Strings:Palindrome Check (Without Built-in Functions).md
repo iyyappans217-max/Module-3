@@ -13,8 +13,18 @@ To write a Python program to check whether the string `"google"` is a **palindro
 
 ## 🧾 Program
 
-Add code here
+```
+s = "google"
 
+rev = s[::-1]
+
+if s == rev:
+    print("Palindrome")
+else:
+    print("Not a palindrome")
+```
 ## Output
+<img width="1922" height="1000" alt="image" src="https://github.com/user-attachments/assets/0e4dde8a-5fc4-4da3-b82d-ab295c9b7c07" />
 
 ## Result
+Hence successfully done using VSCODE.
